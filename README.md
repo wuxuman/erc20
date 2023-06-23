@@ -16,4 +16,13 @@ bob balance changed from 0 to 9：
 alice approve 500 tokens for alice_stash：
 ![image](https://github.com/wuxuman/erc20/assets/6595148/e6825c92-80b1-466b-84e0-8df30869740a)
 
+alice transfer 300 tokens from alice_stash to bob_stash:
+![image](https://github.com/wuxuman/erc20/assets/6595148/e4dce106-a7bb-4f22-bc2e-a71958711edc)
+
+alice_stash changed from 999990 to 999690
+![image](https://github.com/wuxuman/erc20/assets/6595148/f2c2c0c3-550e-4355-8b72-a2c0af1186c5)
+
+bob_stash changed from 0 to 300：
+![image](https://github.com/wuxuman/erc20/assets/6595148/d029c88c-9fdf-4aa5-8c66-03c4e25b5688)
+
 
